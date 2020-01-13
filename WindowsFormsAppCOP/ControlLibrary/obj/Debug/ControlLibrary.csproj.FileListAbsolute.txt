@@ -1,0 +1,16 @@
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\ControlLibrary.dll
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\ControlLibrary.pdb
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.UserControlList.resources
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.Cache
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.dll
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.pdb
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.ControlTreeView.resources
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.ControlTelNum.resources
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\IronXL.dll
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\IronXL.xml
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.ListLook.resources
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\obj\Debug\ControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Дарья\source\repos\WindowsFormsAppCOP\ControlLibrary\bin\Debug\Ionic.Zip.dll
